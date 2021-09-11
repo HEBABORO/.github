@@ -5,8 +5,5 @@
   "categories": [
     "Java 11",
     "Maven"
-  ],
-  "filePatterns": [
-    "^pom.xml$"
   ]
 }
