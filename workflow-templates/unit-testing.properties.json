@@ -1,9 +1,0 @@
-{
-  "name": "Java Unit Testing with Maven",
-  "description": "Java Unit Testing with Maven workflow template.",
-  "iconName": "example-icon",
-  "categories": [
-    "Java 11",
-    "Maven"
-  ]
-}
